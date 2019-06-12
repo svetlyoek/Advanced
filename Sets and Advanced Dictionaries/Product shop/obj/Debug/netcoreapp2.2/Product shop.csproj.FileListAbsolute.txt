@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\bin\Debug\netcoreapp2.2\Product shop.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\bin\Debug\netcoreapp2.2\Product shop.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\bin\Debug\netcoreapp2.2\Product shop.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\bin\Debug\netcoreapp2.2\Product shop.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\bin\Debug\netcoreapp2.2\Product shop.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\obj\Debug\netcoreapp2.2\Product shop.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\obj\Debug\netcoreapp2.2\Product shop.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\obj\Debug\netcoreapp2.2\Product shop.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\obj\Debug\netcoreapp2.2\Product shop.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\obj\Debug\netcoreapp2.2\Product shop.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Product shop\obj\Debug\netcoreapp2.2\Product shop.pdb

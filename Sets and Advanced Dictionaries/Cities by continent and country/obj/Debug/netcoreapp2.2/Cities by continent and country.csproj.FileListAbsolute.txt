@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\bin\Debug\netcoreapp2.2\Cities by continent and country.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\bin\Debug\netcoreapp2.2\Cities by continent and country.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\bin\Debug\netcoreapp2.2\Cities by continent and country.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\bin\Debug\netcoreapp2.2\Cities by continent and country.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\bin\Debug\netcoreapp2.2\Cities by continent and country.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\obj\Debug\netcoreapp2.2\Cities by continent and country.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\obj\Debug\netcoreapp2.2\Cities by continent and country.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\obj\Debug\netcoreapp2.2\Cities by continent and country.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\obj\Debug\netcoreapp2.2\Cities by continent and country.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\obj\Debug\netcoreapp2.2\Cities by continent and country.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Cities by continent and country\obj\Debug\netcoreapp2.2\Cities by continent and country.pdb

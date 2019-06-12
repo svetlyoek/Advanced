@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\bin\Debug\netcoreapp2.2\Diagonal difference.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\bin\Debug\netcoreapp2.2\Diagonal difference.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\bin\Debug\netcoreapp2.2\Diagonal difference.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\bin\Debug\netcoreapp2.2\Diagonal difference.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\bin\Debug\netcoreapp2.2\Diagonal difference.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\obj\Debug\netcoreapp2.2\Diagonal difference.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\obj\Debug\netcoreapp2.2\Diagonal difference.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\obj\Debug\netcoreapp2.2\Diagonal difference.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\obj\Debug\netcoreapp2.2\Diagonal difference.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\obj\Debug\netcoreapp2.2\Diagonal difference.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Diagonal difference\obj\Debug\netcoreapp2.2\Diagonal difference.pdb

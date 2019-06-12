@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\bin\Debug\netcoreapp2.2\Car engine and tires.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\bin\Debug\netcoreapp2.2\Car engine and tires.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\bin\Debug\netcoreapp2.2\Car engine and tires.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\bin\Debug\netcoreapp2.2\Car engine and tires.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\bin\Debug\netcoreapp2.2\Car engine and tires.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\obj\Debug\netcoreapp2.2\Car engine and tires.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\obj\Debug\netcoreapp2.2\Car engine and tires.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\obj\Debug\netcoreapp2.2\Car engine and tires.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\obj\Debug\netcoreapp2.2\Car engine and tires.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\obj\Debug\netcoreapp2.2\Car engine and tires.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Car engine and tires\obj\Debug\netcoreapp2.2\Car engine and tires.pdb

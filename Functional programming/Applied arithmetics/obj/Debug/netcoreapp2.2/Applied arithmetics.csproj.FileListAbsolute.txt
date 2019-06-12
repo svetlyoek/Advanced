@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\bin\Debug\netcoreapp2.2\Applied arithmetics.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\bin\Debug\netcoreapp2.2\Applied arithmetics.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\bin\Debug\netcoreapp2.2\Applied arithmetics.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\bin\Debug\netcoreapp2.2\Applied arithmetics.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\bin\Debug\netcoreapp2.2\Applied arithmetics.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\obj\Debug\netcoreapp2.2\Applied arithmetics.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\obj\Debug\netcoreapp2.2\Applied arithmetics.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\obj\Debug\netcoreapp2.2\Applied arithmetics.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\obj\Debug\netcoreapp2.2\Applied arithmetics.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\obj\Debug\netcoreapp2.2\Applied arithmetics.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Applied arithmetics\obj\Debug\netcoreapp2.2\Applied arithmetics.pdb

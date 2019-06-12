@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\bin\Debug\netcoreapp2.2\Sum matrix columns.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\bin\Debug\netcoreapp2.2\Sum matrix columns.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\bin\Debug\netcoreapp2.2\Sum matrix columns.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\bin\Debug\netcoreapp2.2\Sum matrix columns.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\bin\Debug\netcoreapp2.2\Sum matrix columns.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\obj\Debug\netcoreapp2.2\Sum matrix columns.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\obj\Debug\netcoreapp2.2\Sum matrix columns.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\obj\Debug\netcoreapp2.2\Sum matrix columns.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\obj\Debug\netcoreapp2.2\Sum matrix columns.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\obj\Debug\netcoreapp2.2\Sum matrix columns.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix columns\obj\Debug\netcoreapp2.2\Sum matrix columns.pdb

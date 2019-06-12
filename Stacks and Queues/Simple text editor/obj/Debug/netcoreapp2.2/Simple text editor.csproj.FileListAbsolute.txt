@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\bin\Debug\netcoreapp2.2\Simple text editor.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\bin\Debug\netcoreapp2.2\Simple text editor.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\bin\Debug\netcoreapp2.2\Simple text editor.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\bin\Debug\netcoreapp2.2\Simple text editor.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\bin\Debug\netcoreapp2.2\Simple text editor.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\obj\Debug\netcoreapp2.2\Simple text editor.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\obj\Debug\netcoreapp2.2\Simple text editor.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\obj\Debug\netcoreapp2.2\Simple text editor.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\obj\Debug\netcoreapp2.2\Simple text editor.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\obj\Debug\netcoreapp2.2\Simple text editor.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Simple text editor\obj\Debug\netcoreapp2.2\Simple text editor.pdb

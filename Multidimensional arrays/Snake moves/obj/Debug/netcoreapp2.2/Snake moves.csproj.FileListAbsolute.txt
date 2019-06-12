@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\bin\Debug\netcoreapp2.2\Snake moves.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\bin\Debug\netcoreapp2.2\Snake moves.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\bin\Debug\netcoreapp2.2\Snake moves.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\bin\Debug\netcoreapp2.2\Snake moves.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\bin\Debug\netcoreapp2.2\Snake moves.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\obj\Debug\netcoreapp2.2\Snake moves.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\obj\Debug\netcoreapp2.2\Snake moves.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\obj\Debug\netcoreapp2.2\Snake moves.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\obj\Debug\netcoreapp2.2\Snake moves.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\obj\Debug\netcoreapp2.2\Snake moves.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Snake moves\obj\Debug\netcoreapp2.2\Snake moves.pdb

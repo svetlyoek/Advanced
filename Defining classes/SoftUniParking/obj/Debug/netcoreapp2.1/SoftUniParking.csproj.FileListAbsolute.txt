@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb

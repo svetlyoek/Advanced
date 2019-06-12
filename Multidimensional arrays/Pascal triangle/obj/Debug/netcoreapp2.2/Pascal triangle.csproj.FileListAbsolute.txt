@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\bin\Debug\netcoreapp2.2\Pascal triangle.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\bin\Debug\netcoreapp2.2\Pascal triangle.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\bin\Debug\netcoreapp2.2\Pascal triangle.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\bin\Debug\netcoreapp2.2\Pascal triangle.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\bin\Debug\netcoreapp2.2\Pascal triangle.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\obj\Debug\netcoreapp2.2\Pascal triangle.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\obj\Debug\netcoreapp2.2\Pascal triangle.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\obj\Debug\netcoreapp2.2\Pascal triangle.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\obj\Debug\netcoreapp2.2\Pascal triangle.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\obj\Debug\netcoreapp2.2\Pascal triangle.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Pascal triangle\obj\Debug\netcoreapp2.2\Pascal triangle.pdb

@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\bin\Debug\netcoreapp2.2\Unique usernames.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\bin\Debug\netcoreapp2.2\Unique usernames.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\bin\Debug\netcoreapp2.2\Unique usernames.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\bin\Debug\netcoreapp2.2\Unique usernames.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\bin\Debug\netcoreapp2.2\Unique usernames.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\obj\Debug\netcoreapp2.2\Unique usernames.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\obj\Debug\netcoreapp2.2\Unique usernames.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\obj\Debug\netcoreapp2.2\Unique usernames.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\obj\Debug\netcoreapp2.2\Unique usernames.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Unique usernames\obj\Debug\netcoreapp2.2\Unique usernames.pdb

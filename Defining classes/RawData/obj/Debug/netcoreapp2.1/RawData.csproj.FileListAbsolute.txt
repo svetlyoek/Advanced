@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

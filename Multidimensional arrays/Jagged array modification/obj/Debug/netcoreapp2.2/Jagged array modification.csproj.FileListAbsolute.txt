@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\bin\Debug\netcoreapp2.2\Jagged array modification.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\bin\Debug\netcoreapp2.2\Jagged array modification.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\bin\Debug\netcoreapp2.2\Jagged array modification.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\bin\Debug\netcoreapp2.2\Jagged array modification.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\bin\Debug\netcoreapp2.2\Jagged array modification.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\obj\Debug\netcoreapp2.2\Jagged array modification.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\obj\Debug\netcoreapp2.2\Jagged array modification.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\obj\Debug\netcoreapp2.2\Jagged array modification.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\obj\Debug\netcoreapp2.2\Jagged array modification.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\obj\Debug\netcoreapp2.2\Jagged array modification.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Jagged array modification\obj\Debug\netcoreapp2.2\Jagged array modification.pdb

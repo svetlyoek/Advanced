@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\bin\Debug\netcoreapp2.1\Creating constructors.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\bin\Debug\netcoreapp2.1\Creating constructors.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\bin\Debug\netcoreapp2.1\Creating constructors.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\bin\Debug\netcoreapp2.1\Creating constructors.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\bin\Debug\netcoreapp2.1\Creating constructors.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\obj\Debug\netcoreapp2.1\Creating constructors.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\obj\Debug\netcoreapp2.1\Creating constructors.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\obj\Debug\netcoreapp2.1\Creating constructors.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\obj\Debug\netcoreapp2.1\Creating constructors.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Creating constructors\obj\Debug\netcoreapp2.1\Creating constructors.pdb

@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\bin\Debug\netcoreapp2.2\Sets of elements.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\bin\Debug\netcoreapp2.2\Sets of elements.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\bin\Debug\netcoreapp2.2\Sets of elements.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\bin\Debug\netcoreapp2.2\Sets of elements.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\bin\Debug\netcoreapp2.2\Sets of elements.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\obj\Debug\netcoreapp2.2\Sets of elements.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\obj\Debug\netcoreapp2.2\Sets of elements.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\obj\Debug\netcoreapp2.2\Sets of elements.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\obj\Debug\netcoreapp2.2\Sets of elements.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\obj\Debug\netcoreapp2.2\Sets of elements.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Sets of elements\obj\Debug\netcoreapp2.2\Sets of elements.pdb

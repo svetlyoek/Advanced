@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\bin\Debug\netcoreapp2.2\Wardrobe.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\bin\Debug\netcoreapp2.2\Wardrobe.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\bin\Debug\netcoreapp2.2\Wardrobe.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\bin\Debug\netcoreapp2.2\Wardrobe.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\bin\Debug\netcoreapp2.2\Wardrobe.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\obj\Debug\netcoreapp2.2\Wardrobe.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\obj\Debug\netcoreapp2.2\Wardrobe.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\obj\Debug\netcoreapp2.2\Wardrobe.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\obj\Debug\netcoreapp2.2\Wardrobe.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\obj\Debug\netcoreapp2.2\Wardrobe.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Wardrobe\obj\Debug\netcoreapp2.2\Wardrobe.pdb

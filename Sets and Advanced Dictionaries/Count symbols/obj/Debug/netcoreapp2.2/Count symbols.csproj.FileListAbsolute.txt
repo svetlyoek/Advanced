@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\bin\Debug\netcoreapp2.2\Count symbols.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\bin\Debug\netcoreapp2.2\Count symbols.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\bin\Debug\netcoreapp2.2\Count symbols.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\bin\Debug\netcoreapp2.2\Count symbols.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\bin\Debug\netcoreapp2.2\Count symbols.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\obj\Debug\netcoreapp2.2\Count symbols.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\obj\Debug\netcoreapp2.2\Count symbols.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\obj\Debug\netcoreapp2.2\Count symbols.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\obj\Debug\netcoreapp2.2\Count symbols.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\obj\Debug\netcoreapp2.2\Count symbols.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count symbols\obj\Debug\netcoreapp2.2\Count symbols.csprojAssemblyReference.cache

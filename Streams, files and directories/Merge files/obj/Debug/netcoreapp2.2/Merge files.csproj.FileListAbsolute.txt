@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\bin\Debug\netcoreapp2.2\Merge files.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\bin\Debug\netcoreapp2.2\Merge files.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\bin\Debug\netcoreapp2.2\Merge files.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\bin\Debug\netcoreapp2.2\Merge files.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\bin\Debug\netcoreapp2.2\Merge files.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\obj\Debug\netcoreapp2.2\Merge files.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\obj\Debug\netcoreapp2.2\Merge files.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\obj\Debug\netcoreapp2.2\Merge files.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\obj\Debug\netcoreapp2.2\Merge files.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\obj\Debug\netcoreapp2.2\Merge files.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Merge files\obj\Debug\netcoreapp2.2\Merge files.pdb

@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.pdb
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.pdb

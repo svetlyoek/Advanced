@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\bin\Debug\netcoreapp2.2\Reverse and exclude.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\bin\Debug\netcoreapp2.2\Reverse and exclude.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\bin\Debug\netcoreapp2.2\Reverse and exclude.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\bin\Debug\netcoreapp2.2\Reverse and exclude.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\bin\Debug\netcoreapp2.2\Reverse and exclude.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\obj\Debug\netcoreapp2.2\Reverse and exclude.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\obj\Debug\netcoreapp2.2\Reverse and exclude.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\obj\Debug\netcoreapp2.2\Reverse and exclude.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\obj\Debug\netcoreapp2.2\Reverse and exclude.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Reverse and exclude\obj\Debug\netcoreapp2.2\Reverse and exclude.pdb

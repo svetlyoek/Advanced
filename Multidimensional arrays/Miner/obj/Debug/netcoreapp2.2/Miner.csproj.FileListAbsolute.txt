@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\bin\Debug\netcoreapp2.2\Miner.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\bin\Debug\netcoreapp2.2\Miner.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\bin\Debug\netcoreapp2.2\Miner.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\bin\Debug\netcoreapp2.2\Miner.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\bin\Debug\netcoreapp2.2\Miner.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\obj\Debug\netcoreapp2.2\Miner.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\obj\Debug\netcoreapp2.2\Miner.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\obj\Debug\netcoreapp2.2\Miner.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\obj\Debug\netcoreapp2.2\Miner.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\obj\Debug\netcoreapp2.2\Miner.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Miner\obj\Debug\netcoreapp2.2\Miner.csprojAssemblyReference.cache

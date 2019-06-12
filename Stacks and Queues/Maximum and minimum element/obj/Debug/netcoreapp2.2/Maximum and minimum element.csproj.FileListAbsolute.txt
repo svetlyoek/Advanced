@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\bin\Debug\netcoreapp2.2\Maximum and minimum element.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\bin\Debug\netcoreapp2.2\Maximum and minimum element.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\bin\Debug\netcoreapp2.2\Maximum and minimum element.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\bin\Debug\netcoreapp2.2\Maximum and minimum element.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\bin\Debug\netcoreapp2.2\Maximum and minimum element.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\obj\Debug\netcoreapp2.2\Maximum and minimum element.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\obj\Debug\netcoreapp2.2\Maximum and minimum element.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\obj\Debug\netcoreapp2.2\Maximum and minimum element.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\obj\Debug\netcoreapp2.2\Maximum and minimum element.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\obj\Debug\netcoreapp2.2\Maximum and minimum element.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Maximum and minimum element\obj\Debug\netcoreapp2.2\Maximum and minimum element.pdb

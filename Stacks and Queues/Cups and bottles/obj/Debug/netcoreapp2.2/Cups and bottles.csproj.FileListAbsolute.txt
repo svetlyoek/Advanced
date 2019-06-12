@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\bin\Debug\netcoreapp2.2\Cups and bottles.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\bin\Debug\netcoreapp2.2\Cups and bottles.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\bin\Debug\netcoreapp2.2\Cups and bottles.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\bin\Debug\netcoreapp2.2\Cups and bottles.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\bin\Debug\netcoreapp2.2\Cups and bottles.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\obj\Debug\netcoreapp2.2\Cups and bottles.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\obj\Debug\netcoreapp2.2\Cups and bottles.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\obj\Debug\netcoreapp2.2\Cups and bottles.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\obj\Debug\netcoreapp2.2\Cups and bottles.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\obj\Debug\netcoreapp2.2\Cups and bottles.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Cups and bottles\obj\Debug\netcoreapp2.2\Cups and bottles.pdb

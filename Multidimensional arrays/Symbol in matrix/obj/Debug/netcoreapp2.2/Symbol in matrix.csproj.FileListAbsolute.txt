@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\bin\Debug\netcoreapp2.2\Symbol in matrix.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\bin\Debug\netcoreapp2.2\Symbol in matrix.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\bin\Debug\netcoreapp2.2\Symbol in matrix.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\bin\Debug\netcoreapp2.2\Symbol in matrix.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\bin\Debug\netcoreapp2.2\Symbol in matrix.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\obj\Debug\netcoreapp2.2\Symbol in matrix.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\obj\Debug\netcoreapp2.2\Symbol in matrix.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\obj\Debug\netcoreapp2.2\Symbol in matrix.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\obj\Debug\netcoreapp2.2\Symbol in matrix.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\obj\Debug\netcoreapp2.2\Symbol in matrix.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Symbol in matrix\obj\Debug\netcoreapp2.2\Symbol in matrix.csprojAssemblyReference.cache

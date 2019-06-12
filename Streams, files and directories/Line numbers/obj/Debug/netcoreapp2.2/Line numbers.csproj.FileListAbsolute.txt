@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.pdb

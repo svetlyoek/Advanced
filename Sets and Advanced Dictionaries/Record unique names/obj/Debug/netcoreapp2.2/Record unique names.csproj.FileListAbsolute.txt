@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\bin\Debug\netcoreapp2.2\Record unique names.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\bin\Debug\netcoreapp2.2\Record unique names.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\bin\Debug\netcoreapp2.2\Record unique names.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\bin\Debug\netcoreapp2.2\Record unique names.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\bin\Debug\netcoreapp2.2\Record unique names.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\obj\Debug\netcoreapp2.2\Record unique names.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\obj\Debug\netcoreapp2.2\Record unique names.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\obj\Debug\netcoreapp2.2\Record unique names.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\obj\Debug\netcoreapp2.2\Record unique names.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\obj\Debug\netcoreapp2.2\Record unique names.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Record unique names\obj\Debug\netcoreapp2.2\Record unique names.pdb

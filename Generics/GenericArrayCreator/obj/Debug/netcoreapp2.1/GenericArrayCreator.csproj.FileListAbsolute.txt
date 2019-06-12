@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.pdb
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.pdb

@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\bin\Debug\netcoreapp2.2\Even times.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\bin\Debug\netcoreapp2.2\Even times.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\bin\Debug\netcoreapp2.2\Even times.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\bin\Debug\netcoreapp2.2\Even times.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\bin\Debug\netcoreapp2.2\Even times.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\obj\Debug\netcoreapp2.2\Even times.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\obj\Debug\netcoreapp2.2\Even times.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\obj\Debug\netcoreapp2.2\Even times.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\obj\Debug\netcoreapp2.2\Even times.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Even times\obj\Debug\netcoreapp2.2\Even times.pdb

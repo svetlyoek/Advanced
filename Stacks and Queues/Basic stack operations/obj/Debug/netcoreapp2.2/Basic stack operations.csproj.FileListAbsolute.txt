@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\bin\Debug\netcoreapp2.2\Basic stack operations.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\bin\Debug\netcoreapp2.2\Basic stack operations.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\bin\Debug\netcoreapp2.2\Basic stack operations.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\bin\Debug\netcoreapp2.2\Basic stack operations.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\bin\Debug\netcoreapp2.2\Basic stack operations.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\obj\Debug\netcoreapp2.2\Basic stack operations.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\obj\Debug\netcoreapp2.2\Basic stack operations.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\obj\Debug\netcoreapp2.2\Basic stack operations.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\obj\Debug\netcoreapp2.2\Basic stack operations.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\obj\Debug\netcoreapp2.2\Basic stack operations.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Basic stack operations\obj\Debug\netcoreapp2.2\Basic stack operations.pdb

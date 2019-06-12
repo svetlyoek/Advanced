@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\bin\Debug\netcoreapp2.2\Even lines.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\bin\Debug\netcoreapp2.2\Even lines.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\bin\Debug\netcoreapp2.2\Even lines.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\bin\Debug\netcoreapp2.2\Even lines.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\bin\Debug\netcoreapp2.2\Even lines.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\obj\Debug\netcoreapp2.2\Even lines.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\obj\Debug\netcoreapp2.2\Even lines.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\obj\Debug\netcoreapp2.2\Even lines.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\obj\Debug\netcoreapp2.2\Even lines.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\obj\Debug\netcoreapp2.2\Even lines.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Even lines\obj\Debug\netcoreapp2.2\Even lines.pdb

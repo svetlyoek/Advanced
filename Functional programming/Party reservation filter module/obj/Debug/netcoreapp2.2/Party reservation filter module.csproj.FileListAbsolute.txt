@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\obj\Debug\netcoreapp2.2\Party reservation filter module.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\obj\Debug\netcoreapp2.2\Party reservation filter module.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\obj\Debug\netcoreapp2.2\Party reservation filter module.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\obj\Debug\netcoreapp2.2\Party reservation filter module.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\bin\Debug\netcoreapp2.2\Party reservation filter module.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\bin\Debug\netcoreapp2.2\Party reservation filter module.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\bin\Debug\netcoreapp2.2\Party reservation filter module.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\bin\Debug\netcoreapp2.2\Party reservation filter module.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\bin\Debug\netcoreapp2.2\Party reservation filter module.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\obj\Debug\netcoreapp2.2\Party reservation filter module.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Party reservation filter module\obj\Debug\netcoreapp2.2\Party reservation filter module.pdb

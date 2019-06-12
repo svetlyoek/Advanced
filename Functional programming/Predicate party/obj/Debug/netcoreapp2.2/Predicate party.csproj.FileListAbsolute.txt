@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\bin\Debug\netcoreapp2.2\Predicate party.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\bin\Debug\netcoreapp2.2\Predicate party.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\bin\Debug\netcoreapp2.2\Predicate party.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\bin\Debug\netcoreapp2.2\Predicate party.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\bin\Debug\netcoreapp2.2\Predicate party.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\obj\Debug\netcoreapp2.2\Predicate party.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\obj\Debug\netcoreapp2.2\Predicate party.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\obj\Debug\netcoreapp2.2\Predicate party.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\obj\Debug\netcoreapp2.2\Predicate party.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\obj\Debug\netcoreapp2.2\Predicate party.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate party\obj\Debug\netcoreapp2.2\Predicate party.pdb

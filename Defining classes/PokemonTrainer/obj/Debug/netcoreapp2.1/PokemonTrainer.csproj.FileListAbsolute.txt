@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb

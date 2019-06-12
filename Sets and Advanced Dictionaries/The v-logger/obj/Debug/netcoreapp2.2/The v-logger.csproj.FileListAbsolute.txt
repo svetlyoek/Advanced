@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\bin\Debug\netcoreapp2.2\The v-logger.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\bin\Debug\netcoreapp2.2\The v-logger.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\bin\Debug\netcoreapp2.2\The v-logger.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\bin\Debug\netcoreapp2.2\The v-logger.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\bin\Debug\netcoreapp2.2\The v-logger.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\obj\Debug\netcoreapp2.2\The v-logger.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\obj\Debug\netcoreapp2.2\The v-logger.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\obj\Debug\netcoreapp2.2\The v-logger.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\obj\Debug\netcoreapp2.2\The v-logger.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\obj\Debug\netcoreapp2.2\The v-logger.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\The v-logger\obj\Debug\netcoreapp2.2\The v-logger.pdb

@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\bin\Debug\netcoreapp2.2\Find evens or odds.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\bin\Debug\netcoreapp2.2\Find evens or odds.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\bin\Debug\netcoreapp2.2\Find evens or odds.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\bin\Debug\netcoreapp2.2\Find evens or odds.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\bin\Debug\netcoreapp2.2\Find evens or odds.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\obj\Debug\netcoreapp2.2\Find evens or odds.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\obj\Debug\netcoreapp2.2\Find evens or odds.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\obj\Debug\netcoreapp2.2\Find evens or odds.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\obj\Debug\netcoreapp2.2\Find evens or odds.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\obj\Debug\netcoreapp2.2\Find evens or odds.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Find evens or odds\obj\Debug\netcoreapp2.2\Find evens or odds.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\bin\Debug\netcoreapp2.2\Count uppercase words.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\bin\Debug\netcoreapp2.2\Count uppercase words.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\bin\Debug\netcoreapp2.2\Count uppercase words.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\bin\Debug\netcoreapp2.2\Count uppercase words.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\bin\Debug\netcoreapp2.2\Count uppercase words.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\obj\Debug\netcoreapp2.2\Count uppercase words.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\obj\Debug\netcoreapp2.2\Count uppercase words.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\obj\Debug\netcoreapp2.2\Count uppercase words.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\obj\Debug\netcoreapp2.2\Count uppercase words.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\obj\Debug\netcoreapp2.2\Count uppercase words.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Count uppercase words\obj\Debug\netcoreapp2.2\Count uppercase words.pdb

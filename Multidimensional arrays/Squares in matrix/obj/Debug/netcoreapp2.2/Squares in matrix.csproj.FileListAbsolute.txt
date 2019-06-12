@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\bin\Debug\netcoreapp2.2\Squares in matrix.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\bin\Debug\netcoreapp2.2\Squares in matrix.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\bin\Debug\netcoreapp2.2\Squares in matrix.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\bin\Debug\netcoreapp2.2\Squares in matrix.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\bin\Debug\netcoreapp2.2\Squares in matrix.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\obj\Debug\netcoreapp2.2\Squares in matrix.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\obj\Debug\netcoreapp2.2\Squares in matrix.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\obj\Debug\netcoreapp2.2\Squares in matrix.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\obj\Debug\netcoreapp2.2\Squares in matrix.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\obj\Debug\netcoreapp2.2\Squares in matrix.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Squares in matrix\obj\Debug\netcoreapp2.2\Squares in matrix.pdb

@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\bin\Debug\netcoreapp2.2\SoftUni party.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\bin\Debug\netcoreapp2.2\SoftUni party.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\bin\Debug\netcoreapp2.2\SoftUni party.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\bin\Debug\netcoreapp2.2\SoftUni party.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\bin\Debug\netcoreapp2.2\SoftUni party.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\obj\Debug\netcoreapp2.2\SoftUni party.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\obj\Debug\netcoreapp2.2\SoftUni party.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\obj\Debug\netcoreapp2.2\SoftUni party.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\obj\Debug\netcoreapp2.2\SoftUni party.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\obj\Debug\netcoreapp2.2\SoftUni party.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\SoftUni party\obj\Debug\netcoreapp2.2\SoftUni party.pdb

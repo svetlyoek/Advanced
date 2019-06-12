@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

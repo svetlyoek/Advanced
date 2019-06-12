@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb

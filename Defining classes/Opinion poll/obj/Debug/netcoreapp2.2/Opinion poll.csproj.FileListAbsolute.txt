@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\obj\Debug\netcoreapp2.2\Opinion poll.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\obj\Debug\netcoreapp2.2\Opinion poll.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\obj\Debug\netcoreapp2.2\Opinion poll.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\obj\Debug\netcoreapp2.2\Opinion poll.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\bin\Debug\netcoreapp2.2\Opinion poll.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\bin\Debug\netcoreapp2.2\Opinion poll.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\bin\Debug\netcoreapp2.2\Opinion poll.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\bin\Debug\netcoreapp2.2\Opinion poll.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\bin\Debug\netcoreapp2.2\Opinion poll.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\obj\Debug\netcoreapp2.2\Opinion poll.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Opinion poll\obj\Debug\netcoreapp2.2\Opinion poll.pdb

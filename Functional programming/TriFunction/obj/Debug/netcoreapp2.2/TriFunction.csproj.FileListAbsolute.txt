@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\bin\Debug\netcoreapp2.2\TriFunction.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\bin\Debug\netcoreapp2.2\TriFunction.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\bin\Debug\netcoreapp2.2\TriFunction.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\bin\Debug\netcoreapp2.2\TriFunction.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\bin\Debug\netcoreapp2.2\TriFunction.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\obj\Debug\netcoreapp2.2\TriFunction.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\obj\Debug\netcoreapp2.2\TriFunction.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\obj\Debug\netcoreapp2.2\TriFunction.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\obj\Debug\netcoreapp2.2\TriFunction.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\obj\Debug\netcoreapp2.2\TriFunction.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\TriFunction\obj\Debug\netcoreapp2.2\TriFunction.pdb

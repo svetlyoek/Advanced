@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\bin\Debug\netcoreapp2.1\SpecialCars.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\bin\Debug\netcoreapp2.1\SpecialCars.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\bin\Debug\netcoreapp2.1\SpecialCars.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\bin\Debug\netcoreapp2.1\SpecialCars.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\bin\Debug\netcoreapp2.1\SpecialCars.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\obj\Debug\netcoreapp2.1\SpecialCars.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\obj\Debug\netcoreapp2.1\SpecialCars.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\obj\Debug\netcoreapp2.1\SpecialCars.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\obj\Debug\netcoreapp2.1\SpecialCars.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\SpecialCars\obj\Debug\netcoreapp2.1\SpecialCars.pdb

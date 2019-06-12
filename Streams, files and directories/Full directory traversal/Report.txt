@@ -1,0 +1,294 @@
+.cache
+--Copy binary file.AssemblyInfoInputs.cache - 0.000kb
+--Copy binary file.csproj.CoreCompileInputs.cache - 0.000kb
+--Directory traversal.AssemblyInfoInputs.cache - 0.000kb
+--Directory traversal.csproj.CoreCompileInputs.cache - 0.000kb
+--Even lines.AssemblyInfoInputs.cache - 0.000kb
+--Even lines.csproj.CoreCompileInputs.cache - 0.000kb
+--Folder size.AssemblyInfoInputs.cache - 0.000kb
+--Folder size.csproj.CoreCompileInputs.cache - 0.000kb
+--Full directory traversal.AssemblyInfoInputs.cache - 0.000kb
+--Full directory traversal.csproj.CoreCompileInputs.cache - 0.000kb
+--Line numbers.AssemblyInfoInputs.cache - 0.000kb
+--Line numbers.csproj.CoreCompileInputs.cache - 0.000kb
+--Line numbers II.AssemblyInfoInputs.cache - 0.000kb
+--Line numbers II.csproj.CoreCompileInputs.cache - 0.000kb
+--Merge files.AssemblyInfoInputs.cache - 0.000kb
+--Merge files.csproj.CoreCompileInputs.cache - 0.000kb
+--Odd lines.AssemblyInfoInputs.cache - 0.000kb
+--Odd lines.csproj.CoreCompileInputs.cache - 0.000kb
+--Slice file.AssemblyInfoInputs.cache - 0.000kb
+--Slice file.csproj.CoreCompileInputs.cache - 0.000kb
+--Word count.AssemblyInfoInputs.cache - 0.000kb
+--Word count.csproj.CoreCompileInputs.cache - 0.000kb
+--Word count II.AssemblyInfoInputs.cache - 0.000kb
+--Word count II.csproj.CoreCompileInputs.cache - 0.000kb
+--Copy binary file.csproj.nuget.cache - 0.000kb
+--Directory traversal.csproj.nuget.cache - 0.000kb
+--Even lines.csproj.nuget.cache - 0.000kb
+--Folder size.csproj.nuget.cache - 0.000kb
+--Full directory traversal.csproj.nuget.cache - 0.000kb
+--Line numbers.csproj.nuget.cache - 0.000kb
+--Line numbers II.csproj.nuget.cache - 0.000kb
+--Merge files.csproj.nuget.cache - 0.000kb
+--Odd lines.csproj.nuget.cache - 0.000kb
+--Slice file.csproj.nuget.cache - 0.000kb
+--Word count.csproj.nuget.cache - 0.000kb
+--Word count II.csproj.nuget.cache - 0.000kb
+--Copy binary file.csprojAssemblyReference.cache - 0.000kb
+--Even lines.csprojAssemblyReference.cache - 0.000kb
+--Folder size.csprojAssemblyReference.cache - 0.000kb
+--Full directory traversal.csprojAssemblyReference.cache - 0.000kb
+--Line numbers.csprojAssemblyReference.cache - 0.000kb
+--Line numbers II.csprojAssemblyReference.cache - 0.000kb
+--Merge files.csprojAssemblyReference.cache - 0.000kb
+--Odd lines.csprojAssemblyReference.cache - 0.000kb
+--Slice file.csprojAssemblyReference.cache - 0.000kb
+--Word count.csprojAssemblyReference.cache - 0.000kb
+--Word count II.csprojAssemblyReference.cache - 0.000kb
+--Copy binary file.assets.cache - 20.000kb
+--Directory traversal.assets.cache - 20.000kb
+--Even lines.assets.cache - 20.000kb
+--Folder size.assets.cache - 20.000kb
+--Full directory traversal.assets.cache - 20.000kb
+--Line numbers.assets.cache - 20.000kb
+--Line numbers II.assets.cache - 20.000kb
+--Merge files.assets.cache - 20.000kb
+--Odd lines.assets.cache - 20.000kb
+--Slice file.assets.cache - 20.000kb
+--Word count.assets.cache - 20.000kb
+--Word count II.assets.cache - 20.000kb
+.json
+--Copy binary file.runtimeconfig.json - 0.000kb
+--Even lines.runtimeconfig.json - 0.000kb
+--Folder size.runtimeconfig.json - 0.000kb
+--Full directory traversal.runtimeconfig.json - 0.000kb
+--Line numbers.runtimeconfig.json - 0.000kb
+--Line numbers II.runtimeconfig.json - 0.000kb
+--Merge files.runtimeconfig.json - 0.000kb
+--Odd lines.runtimeconfig.json - 0.000kb
+--Slice file.runtimeconfig.json - 0.000kb
+--Word count.runtimeconfig.json - 0.000kb
+--Word count II.runtimeconfig.json - 0.000kb
+--Copy binary file.runtimeconfig.dev.json - 0.000kb
+--Even lines.runtimeconfig.dev.json - 0.000kb
+--Folder size.runtimeconfig.dev.json - 0.000kb
+--Full directory traversal.runtimeconfig.dev.json - 0.000kb
+--Line numbers.runtimeconfig.dev.json - 0.000kb
+--Line numbers II.runtimeconfig.dev.json - 0.000kb
+--Merge files.runtimeconfig.dev.json - 0.000kb
+--Odd lines.runtimeconfig.dev.json - 0.000kb
+--Slice file.runtimeconfig.dev.json - 0.000kb
+--Word count.runtimeconfig.dev.json - 0.000kb
+--Word count II.runtimeconfig.dev.json - 0.000kb
+--Odd lines.deps.json - 0.000kb
+--Even lines.deps.json - 0.000kb
+--Slice file.deps.json - 0.000kb
+--Word count.deps.json - 0.000kb
+--Folder size.deps.json - 0.000kb
+--Merge files.deps.json - 0.000kb
+--Line numbers.deps.json - 0.000kb
+--Word count II.deps.json - 0.000kb
+--Line numbers II.deps.json - 0.000kb
+--Copy binary file.deps.json - 0.000kb
+--Full directory traversal.deps.json - 0.000kb
+--Odd lines.csproj.nuget.dgspec.json - 2.000kb
+--Even lines.csproj.nuget.dgspec.json - 2.000kb
+--Slice file.csproj.nuget.dgspec.json - 2.000kb
+--Word count.csproj.nuget.dgspec.json - 2.000kb
+--Folder size.csproj.nuget.dgspec.json - 2.000kb
+--Merge files.csproj.nuget.dgspec.json - 2.000kb
+--Line numbers.csproj.nuget.dgspec.json - 2.000kb
+--Word count II.csproj.nuget.dgspec.json - 2.000kb
+--Line numbers II.csproj.nuget.dgspec.json - 2.000kb
+--Copy binary file.csproj.nuget.dgspec.json - 2.000kb
+--Directory traversal.csproj.nuget.dgspec.json - 2.000kb
+--Full directory traversal.csproj.nuget.dgspec.json - 2.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+--project.assets.json - 38.000kb
+.txt
+--FileOne.txt - 0.000kb
+--FileTwo.txt - 0.000kb
+--words.txt - 0.000kb
+--Output.txt - 0.000kb
+--words.txt - 0.000kb
+--Output.txt - 0.000kb
+--expectedResult.txt - 0.000kb
+--Output.txt - 0.000kb
+--actualResult.txt - 0.000kb
+--Input.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--text.txt - 0.000kb
+--Input.txt - 0.000kb
+--Output.txt - 0.000kb
+--Input.txt - 0.000kb
+--Input.txt - 0.000kb
+--Output.txt - 0.000kb
+--Odd lines.csproj.FileListAbsolute.txt - 1.000kb
+--Even lines.csproj.FileListAbsolute.txt - 1.000kb
+--Slice file.csproj.FileListAbsolute.txt - 1.000kb
+--Word count.csproj.FileListAbsolute.txt - 1.000kb
+--Folder size.csproj.FileListAbsolute.txt - 1.000kb
+--Merge files.csproj.FileListAbsolute.txt - 1.000kb
+--Line numbers.csproj.FileListAbsolute.txt - 1.000kb
+--Word count II.csproj.FileListAbsolute.txt - 1.000kb
+--Line numbers II.csproj.FileListAbsolute.txt - 1.000kb
+--Copy binary file.csproj.FileListAbsolute.txt - 1.000kb
+--Full directory traversal.csproj.FileListAbsolute.txt - 1.000kb
+--Part-4.txt - 364.000kb
+--Part-1.txt - 376.000kb
+--Part-2.txt - 376.000kb
+--Part-3.txt - 376.000kb
+--sliceMe.txt - 1489.000kb
+.cs
+--Program.cs - 0.000kb
+--Program.cs - 0.000kb
+--Program.cs - 0.000kb
+--Program.cs - 0.000kb
+--Program.cs - 0.000kb
+--Odd lines.AssemblyInfo.cs - 0.000kb
+--Even lines.AssemblyInfo.cs - 0.000kb
+--Slice file.AssemblyInfo.cs - 0.000kb
+--Word count.AssemblyInfo.cs - 0.000kb
+--Folder size.AssemblyInfo.cs - 0.000kb
+--Merge files.AssemblyInfo.cs - 0.000kb
+--Line numbers.AssemblyInfo.cs - 0.000kb
+--Word count II.AssemblyInfo.cs - 0.000kb
+--Line numbers II.AssemblyInfo.cs - 0.000kb
+--Copy binary file.AssemblyInfo.cs - 0.000kb
+--Program.cs - 1.000kb
+--Directory traversal.AssemblyInfo.cs - 1.000kb
+--Full directory traversal.AssemblyInfo.cs - 1.000kb
+--Program.cs - 1.000kb
+--Program.cs - 1.000kb
+--Program.cs - 1.000kb
+--Program.cs - 1.000kb
+--Program.cs - 2.000kb
+--Program.cs - 2.000kb
+.dll
+--Copy binary file.dll - 4.000kb
+--Copy binary file.dll - 4.000kb
+--Folder size.dll - 4.000kb
+--Folder size.dll - 4.000kb
+--Even lines.dll - 5.000kb
+--Even lines.dll - 5.000kb
+--Line numbers.dll - 5.000kb
+--Line numbers.dll - 5.000kb
+--Line numbers II.dll - 5.000kb
+--Line numbers II.dll - 5.000kb
+--Merge files.dll - 5.000kb
+--Merge files.dll - 5.000kb
+--Odd lines.dll - 5.000kb
+--Odd lines.dll - 5.000kb
+--Slice file.dll - 5.000kb
+--Slice file.dll - 5.000kb
+--Word count.dll - 6.000kb
+--Word count.dll - 6.000kb
+--Word count II.dll - 6.000kb
+--Word count II.dll - 6.000kb
+--Full directory traversal.dll - 7.000kb
+--Full directory traversal.dll - 7.000kb
+.pdb
+--Folder size.pdb - 0.000kb
+--Folder size.pdb - 0.000kb
+--Copy binary file.pdb - 0.000kb
+--Copy binary file.pdb - 0.000kb
+--Line numbers.pdb - 0.000kb
+--Line numbers.pdb - 0.000kb
+--Odd lines.pdb - 0.000kb
+--Odd lines.pdb - 0.000kb
+--Merge files.pdb - 0.000kb
+--Merge files.pdb - 0.000kb
+--Line numbers II.pdb - 0.000kb
+--Line numbers II.pdb - 0.000kb
+--Even lines.pdb - 0.000kb
+--Even lines.pdb - 0.000kb
+--Slice file.pdb - 0.000kb
+--Slice file.pdb - 0.000kb
+--Full directory traversal.pdb - 1.000kb
+--Full directory traversal.pdb - 1.000kb
+--Word count II.pdb - 1.000kb
+--Word count II.pdb - 1.000kb
+--Word count.pdb - 1.000kb
+--Word count.pdb - 1.000kb
+.csproj
+--Odd lines.csproj - 0.000kb
+--Even lines.csproj - 0.000kb
+--Slice file.csproj - 0.000kb
+--Word count.csproj - 0.000kb
+--Folder size.csproj - 0.000kb
+--Merge files.csproj - 0.000kb
+--Line numbers.csproj - 0.000kb
+--Word count II.csproj - 0.000kb
+--Line numbers II.csproj - 0.000kb
+--Copy binary file.csproj - 0.000kb
+--Directory traversal.csproj - 0.000kb
+--Full directory traversal.csproj - 0.000kb
+.props
+--Odd lines.csproj.nuget.g.props - 1.000kb
+--Even lines.csproj.nuget.g.props - 1.000kb
+--Slice file.csproj.nuget.g.props - 1.000kb
+--Word count.csproj.nuget.g.props - 1.000kb
+--Folder size.csproj.nuget.g.props - 1.000kb
+--Merge files.csproj.nuget.g.props - 1.000kb
+--Line numbers.csproj.nuget.g.props - 1.000kb
+--Word count II.csproj.nuget.g.props - 1.000kb
+--Line numbers II.csproj.nuget.g.props - 1.000kb
+--Copy binary file.csproj.nuget.g.props - 1.000kb
+--Directory traversal.csproj.nuget.g.props - 1.000kb
+--Full directory traversal.csproj.nuget.g.props - 1.000kb
+.targets
+--Copy binary file.csproj.nuget.g.targets - 0.000kb
+--Directory traversal.csproj.nuget.g.targets - 0.000kb
+--Even lines.csproj.nuget.g.targets - 0.000kb
+--Folder size.csproj.nuget.g.targets - 0.000kb
+--Full directory traversal.csproj.nuget.g.targets - 0.000kb
+--Line numbers.csproj.nuget.g.targets - 0.000kb
+--Line numbers II.csproj.nuget.g.targets - 0.000kb
+--Merge files.csproj.nuget.g.targets - 0.000kb
+--Odd lines.csproj.nuget.g.targets - 0.000kb
+--Slice file.csproj.nuget.g.targets - 0.000kb
+--Word count.csproj.nuget.g.targets - 0.000kb
+--Word count II.csproj.nuget.g.targets - 0.000kb
+.docx
+--~$. CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 0.000kb
+--1. Java-Advanced-Stacks-and-Queues-Exercises.docx - 58.000kb
+--1. Java-Advanced-Stacks-and-Queues-Exercises.docx - 58.000kb
+--04. CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 419.000kb
+--1. Java-Advanced-Stacks-and-Queues-Lab.docx - 645.000kb
+--1. Java-Advanced-Stacks-and-Queues-Lab.docx - 645.000kb
+--04. CSharp-Advanced-Streams-Files-and-Directories-Lab.docx - 714.000kb
+--2. Simple-Calculations-Exercises.docx - 1346.000kb
+--2. Simple-Calculations-Exercises.docx - 1346.000kb
+.png
+--copyMe.png - 9.000kb
+--Input.png - 9.000kb
+.pptx
+--1. Java-Advanced-Stacks-and-Queues.pptx - 3235.000kb
+--1. Java-Advanced-Stacks-and-Queues.pptx - 3235.000kb
+.dtbcache
+--.dtbcache - 4362.000kb
+.ide
+--storage.ide - 660.000kb
+.ide-shm
+--storage.ide-shm - 32.000kb
+.ide-wal
+--storage.ide-wal - 4031.000kb
+.lock
+--db.lock - 0.000kb
+.sln
+--Streams, files and directories.sln - 6.000kb
+.suo
+--.suo - 41.000kb

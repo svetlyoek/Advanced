@@ -1,0 +1,6 @@
+.docx
+--~$. CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 0.000kb
+--04. CSharp-Advanced-Streams-Files-and-Directories-Exercise.docx - 419.000kb
+--04. CSharp-Advanced-Streams-Files-and-Directories-Lab.docx - 714.000kb
+.sln
+--Streams, files and directories.sln - 6.000kb

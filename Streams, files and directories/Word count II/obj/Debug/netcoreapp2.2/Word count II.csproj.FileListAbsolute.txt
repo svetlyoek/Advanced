@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\bin\Debug\netcoreapp2.2\Word count II.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\bin\Debug\netcoreapp2.2\Word count II.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\bin\Debug\netcoreapp2.2\Word count II.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\bin\Debug\netcoreapp2.2\Word count II.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\bin\Debug\netcoreapp2.2\Word count II.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\obj\Debug\netcoreapp2.2\Word count II.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\obj\Debug\netcoreapp2.2\Word count II.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\obj\Debug\netcoreapp2.2\Word count II.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\obj\Debug\netcoreapp2.2\Word count II.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\obj\Debug\netcoreapp2.2\Word count II.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Word count II\obj\Debug\netcoreapp2.2\Word count II.pdb

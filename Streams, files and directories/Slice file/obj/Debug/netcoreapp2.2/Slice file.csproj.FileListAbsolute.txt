@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\bin\Debug\netcoreapp2.2\Slice file.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\bin\Debug\netcoreapp2.2\Slice file.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\bin\Debug\netcoreapp2.2\Slice file.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\bin\Debug\netcoreapp2.2\Slice file.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\bin\Debug\netcoreapp2.2\Slice file.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\obj\Debug\netcoreapp2.2\Slice file.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\obj\Debug\netcoreapp2.2\Slice file.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\obj\Debug\netcoreapp2.2\Slice file.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\obj\Debug\netcoreapp2.2\Slice file.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\obj\Debug\netcoreapp2.2\Slice file.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Slice file\obj\Debug\netcoreapp2.2\Slice file.pdb

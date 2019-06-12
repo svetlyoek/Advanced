@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\bin\Debug\netcoreapp2.2\Ranking.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\bin\Debug\netcoreapp2.2\Ranking.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\bin\Debug\netcoreapp2.2\Ranking.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\bin\Debug\netcoreapp2.2\Ranking.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\bin\Debug\netcoreapp2.2\Ranking.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\obj\Debug\netcoreapp2.2\Ranking.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\obj\Debug\netcoreapp2.2\Ranking.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\obj\Debug\netcoreapp2.2\Ranking.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\obj\Debug\netcoreapp2.2\Ranking.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\obj\Debug\netcoreapp2.2\Ranking.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Ranking\obj\Debug\netcoreapp2.2\Ranking.pdb

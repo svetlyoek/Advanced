@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\bin\Debug\netcoreapp2.2\Zip and extract.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\bin\Debug\netcoreapp2.2\Zip and extract.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\bin\Debug\netcoreapp2.2\Zip and extract.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\bin\Debug\netcoreapp2.2\Zip and extract.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\bin\Debug\netcoreapp2.2\Zip and extract.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\obj\Debug\netcoreapp2.2\Zip and extract.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\obj\Debug\netcoreapp2.2\Zip and extract.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\obj\Debug\netcoreapp2.2\Zip and extract.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\obj\Debug\netcoreapp2.2\Zip and extract.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\obj\Debug\netcoreapp2.2\Zip and extract.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Zip and extract\obj\Debug\netcoreapp2.2\Zip and extract.pdb

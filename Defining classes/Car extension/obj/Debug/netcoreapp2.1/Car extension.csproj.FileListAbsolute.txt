@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\obj\Debug\netcoreapp2.1\Car extension.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\obj\Debug\netcoreapp2.1\Car extension.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\obj\Debug\netcoreapp2.1\Car extension.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\bin\Debug\netcoreapp2.1\Car extension.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\bin\Debug\netcoreapp2.1\Car extension.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\bin\Debug\netcoreapp2.1\Car extension.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\bin\Debug\netcoreapp2.1\Car extension.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\bin\Debug\netcoreapp2.1\Car extension.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\obj\Debug\netcoreapp2.1\Car extension.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\obj\Debug\netcoreapp2.1\Car extension.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Car extension\obj\Debug\netcoreapp2.1\Car extension.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\bin\Debug\netcoreapp2.2\Truck tour.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\bin\Debug\netcoreapp2.2\Truck tour.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\bin\Debug\netcoreapp2.2\Truck tour.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\bin\Debug\netcoreapp2.2\Truck tour.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\bin\Debug\netcoreapp2.2\Truck tour.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\obj\Debug\netcoreapp2.2\Truck tour.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\obj\Debug\netcoreapp2.2\Truck tour.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\obj\Debug\netcoreapp2.2\Truck tour.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\obj\Debug\netcoreapp2.2\Truck tour.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Truck tour\obj\Debug\netcoreapp2.2\Truck tour.pdb

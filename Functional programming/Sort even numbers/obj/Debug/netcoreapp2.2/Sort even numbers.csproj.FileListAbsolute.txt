@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\bin\Debug\netcoreapp2.2\Sort even numbers.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\bin\Debug\netcoreapp2.2\Sort even numbers.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\bin\Debug\netcoreapp2.2\Sort even numbers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\bin\Debug\netcoreapp2.2\Sort even numbers.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\bin\Debug\netcoreapp2.2\Sort even numbers.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\obj\Debug\netcoreapp2.2\Sort even numbers.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\obj\Debug\netcoreapp2.2\Sort even numbers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\obj\Debug\netcoreapp2.2\Sort even numbers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\obj\Debug\netcoreapp2.2\Sort even numbers.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\obj\Debug\netcoreapp2.2\Sort even numbers.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Sort even numbers\obj\Debug\netcoreapp2.2\Sort even numbers.pdb

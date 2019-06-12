@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\bin\Debug\netcoreapp2.2\Fashion boutique.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\bin\Debug\netcoreapp2.2\Fashion boutique.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\bin\Debug\netcoreapp2.2\Fashion boutique.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\bin\Debug\netcoreapp2.2\Fashion boutique.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\bin\Debug\netcoreapp2.2\Fashion boutique.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\obj\Debug\netcoreapp2.2\Fashion boutique.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\obj\Debug\netcoreapp2.2\Fashion boutique.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\obj\Debug\netcoreapp2.2\Fashion boutique.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\obj\Debug\netcoreapp2.2\Fashion boutique.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\obj\Debug\netcoreapp2.2\Fashion boutique.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Fashion boutique\obj\Debug\netcoreapp2.2\Fashion boutique.pdb

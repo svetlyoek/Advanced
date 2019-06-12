@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\bin\Debug\netcoreapp2.2\List of predicates.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\bin\Debug\netcoreapp2.2\List of predicates.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\bin\Debug\netcoreapp2.2\List of predicates.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\bin\Debug\netcoreapp2.2\List of predicates.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\bin\Debug\netcoreapp2.2\List of predicates.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\obj\Debug\netcoreapp2.2\List of predicates.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\obj\Debug\netcoreapp2.2\List of predicates.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\obj\Debug\netcoreapp2.2\List of predicates.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\obj\Debug\netcoreapp2.2\List of predicates.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\obj\Debug\netcoreapp2.2\List of predicates.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\List of predicates\obj\Debug\netcoreapp2.2\List of predicates.pdb

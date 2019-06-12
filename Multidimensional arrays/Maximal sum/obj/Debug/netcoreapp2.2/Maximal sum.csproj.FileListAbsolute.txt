@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\bin\Debug\netcoreapp2.2\Maximal sum.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\bin\Debug\netcoreapp2.2\Maximal sum.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\bin\Debug\netcoreapp2.2\Maximal sum.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\bin\Debug\netcoreapp2.2\Maximal sum.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\bin\Debug\netcoreapp2.2\Maximal sum.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\obj\Debug\netcoreapp2.2\Maximal sum.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\obj\Debug\netcoreapp2.2\Maximal sum.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\obj\Debug\netcoreapp2.2\Maximal sum.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\obj\Debug\netcoreapp2.2\Maximal sum.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\obj\Debug\netcoreapp2.2\Maximal sum.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Maximal sum\obj\Debug\netcoreapp2.2\Maximal sum.pdb

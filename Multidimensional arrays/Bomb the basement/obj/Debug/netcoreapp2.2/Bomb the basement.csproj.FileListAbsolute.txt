@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\bin\Debug\netcoreapp2.2\Bomb the basement.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\bin\Debug\netcoreapp2.2\Bomb the basement.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\bin\Debug\netcoreapp2.2\Bomb the basement.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\bin\Debug\netcoreapp2.2\Bomb the basement.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\bin\Debug\netcoreapp2.2\Bomb the basement.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\obj\Debug\netcoreapp2.2\Bomb the basement.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\obj\Debug\netcoreapp2.2\Bomb the basement.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\obj\Debug\netcoreapp2.2\Bomb the basement.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\obj\Debug\netcoreapp2.2\Bomb the basement.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\obj\Debug\netcoreapp2.2\Bomb the basement.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Bomb the basement\obj\Debug\netcoreapp2.2\Bomb the basement.pdb

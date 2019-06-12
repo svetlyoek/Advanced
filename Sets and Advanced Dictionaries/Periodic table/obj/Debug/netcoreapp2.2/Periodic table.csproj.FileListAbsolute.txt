@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\bin\Debug\netcoreapp2.2\Periodic table.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\bin\Debug\netcoreapp2.2\Periodic table.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\bin\Debug\netcoreapp2.2\Periodic table.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\bin\Debug\netcoreapp2.2\Periodic table.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\bin\Debug\netcoreapp2.2\Periodic table.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\obj\Debug\netcoreapp2.2\Periodic table.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\obj\Debug\netcoreapp2.2\Periodic table.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\obj\Debug\netcoreapp2.2\Periodic table.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\obj\Debug\netcoreapp2.2\Periodic table.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Periodic table\obj\Debug\netcoreapp2.2\Periodic table.pdb

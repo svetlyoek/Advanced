@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\bin\Debug\netcoreapp2.2\Sum matrix elements.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\bin\Debug\netcoreapp2.2\Sum matrix elements.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\bin\Debug\netcoreapp2.2\Sum matrix elements.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\bin\Debug\netcoreapp2.2\Sum matrix elements.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\bin\Debug\netcoreapp2.2\Sum matrix elements.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\obj\Debug\netcoreapp2.2\Sum matrix elements.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\obj\Debug\netcoreapp2.2\Sum matrix elements.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\obj\Debug\netcoreapp2.2\Sum matrix elements.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\obj\Debug\netcoreapp2.2\Sum matrix elements.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\obj\Debug\netcoreapp2.2\Sum matrix elements.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Sum matrix elements\obj\Debug\netcoreapp2.2\Sum matrix elements.pdb

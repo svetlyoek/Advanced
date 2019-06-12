@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.pdb

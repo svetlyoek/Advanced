@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\obj\Debug\netcoreapp2.2\Custom comparator.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\obj\Debug\netcoreapp2.2\Custom comparator.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\obj\Debug\netcoreapp2.2\Custom comparator.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\obj\Debug\netcoreapp2.2\Custom comparator.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\bin\Debug\netcoreapp2.2\Custom comparator.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\bin\Debug\netcoreapp2.2\Custom comparator.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\bin\Debug\netcoreapp2.2\Custom comparator.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\bin\Debug\netcoreapp2.2\Custom comparator.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\bin\Debug\netcoreapp2.2\Custom comparator.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\obj\Debug\netcoreapp2.2\Custom comparator.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Custom comparator\obj\Debug\netcoreapp2.2\Custom comparator.pdb

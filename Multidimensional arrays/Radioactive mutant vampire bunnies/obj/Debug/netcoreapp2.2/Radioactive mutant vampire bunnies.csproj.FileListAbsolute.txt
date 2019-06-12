@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\bin\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\bin\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\bin\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\bin\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\bin\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\obj\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\obj\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\obj\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\obj\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\obj\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Radioactive mutant vampire bunnies\obj\Debug\netcoreapp2.2\Radioactive mutant vampire bunnies.pdb

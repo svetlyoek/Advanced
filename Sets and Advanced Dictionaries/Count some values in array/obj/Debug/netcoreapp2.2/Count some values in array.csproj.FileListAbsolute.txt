@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\bin\Debug\netcoreapp2.2\Count some values in array.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\bin\Debug\netcoreapp2.2\Count some values in array.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\bin\Debug\netcoreapp2.2\Count some values in array.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\bin\Debug\netcoreapp2.2\Count some values in array.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\bin\Debug\netcoreapp2.2\Count some values in array.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\obj\Debug\netcoreapp2.2\Count some values in array.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\obj\Debug\netcoreapp2.2\Count some values in array.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\obj\Debug\netcoreapp2.2\Count some values in array.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\obj\Debug\netcoreapp2.2\Count some values in array.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\obj\Debug\netcoreapp2.2\Count some values in array.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Count some values in array\obj\Debug\netcoreapp2.2\Count some values in array.pdb

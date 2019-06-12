@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\bin\Debug\netcoreapp2.2\Full directory traversal.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\bin\Debug\netcoreapp2.2\Full directory traversal.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\bin\Debug\netcoreapp2.2\Full directory traversal.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\bin\Debug\netcoreapp2.2\Full directory traversal.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\bin\Debug\netcoreapp2.2\Full directory traversal.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\obj\Debug\netcoreapp2.2\Full directory traversal.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\obj\Debug\netcoreapp2.2\Full directory traversal.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\obj\Debug\netcoreapp2.2\Full directory traversal.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\obj\Debug\netcoreapp2.2\Full directory traversal.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\obj\Debug\netcoreapp2.2\Full directory traversal.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Full directory traversal\obj\Debug\netcoreapp2.2\Full directory traversal.pdb

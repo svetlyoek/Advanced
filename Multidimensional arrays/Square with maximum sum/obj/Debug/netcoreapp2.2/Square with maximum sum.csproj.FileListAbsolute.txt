@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\bin\Debug\netcoreapp2.2\Square with maximum sum.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\bin\Debug\netcoreapp2.2\Square with maximum sum.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\bin\Debug\netcoreapp2.2\Square with maximum sum.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\bin\Debug\netcoreapp2.2\Square with maximum sum.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\bin\Debug\netcoreapp2.2\Square with maximum sum.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\obj\Debug\netcoreapp2.2\Square with maximum sum.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\obj\Debug\netcoreapp2.2\Square with maximum sum.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\obj\Debug\netcoreapp2.2\Square with maximum sum.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\obj\Debug\netcoreapp2.2\Square with maximum sum.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\obj\Debug\netcoreapp2.2\Square with maximum sum.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Square with maximum sum\obj\Debug\netcoreapp2.2\Square with maximum sum.pdb

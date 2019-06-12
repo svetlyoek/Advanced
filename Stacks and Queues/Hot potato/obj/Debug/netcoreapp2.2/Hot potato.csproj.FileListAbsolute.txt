@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\bin\Debug\netcoreapp2.2\Hot potato.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\bin\Debug\netcoreapp2.2\Hot potato.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\bin\Debug\netcoreapp2.2\Hot potato.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\bin\Debug\netcoreapp2.2\Hot potato.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\bin\Debug\netcoreapp2.2\Hot potato.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\obj\Debug\netcoreapp2.2\Hot potato.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\obj\Debug\netcoreapp2.2\Hot potato.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\obj\Debug\netcoreapp2.2\Hot potato.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\obj\Debug\netcoreapp2.2\Hot potato.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\obj\Debug\netcoreapp2.2\Hot potato.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Hot potato\obj\Debug\netcoreapp2.2\Hot potato.pdb

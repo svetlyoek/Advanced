@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\bin\Debug\netcoreapp2.2\Key revolver.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\bin\Debug\netcoreapp2.2\Key revolver.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\bin\Debug\netcoreapp2.2\Key revolver.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\bin\Debug\netcoreapp2.2\Key revolver.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\bin\Debug\netcoreapp2.2\Key revolver.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\obj\Debug\netcoreapp2.2\Key revolver.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\obj\Debug\netcoreapp2.2\Key revolver.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\obj\Debug\netcoreapp2.2\Key revolver.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\obj\Debug\netcoreapp2.2\Key revolver.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\obj\Debug\netcoreapp2.2\Key revolver.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Key revolver\obj\Debug\netcoreapp2.2\Key revolver.pdb

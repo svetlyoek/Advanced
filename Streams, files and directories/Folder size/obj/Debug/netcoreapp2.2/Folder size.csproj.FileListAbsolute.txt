@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\bin\Debug\netcoreapp2.2\Folder size.deps.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\bin\Debug\netcoreapp2.2\Folder size.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\bin\Debug\netcoreapp2.2\Folder size.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\bin\Debug\netcoreapp2.2\Folder size.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\bin\Debug\netcoreapp2.2\Folder size.pdb
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\obj\Debug\netcoreapp2.2\Folder size.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\obj\Debug\netcoreapp2.2\Folder size.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\obj\Debug\netcoreapp2.2\Folder size.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\obj\Debug\netcoreapp2.2\Folder size.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\obj\Debug\netcoreapp2.2\Folder size.dll
+E:\Soft Uni\CODES\Advanced\Streams, files and directories\Folder size\obj\Debug\netcoreapp2.2\Folder size.pdb

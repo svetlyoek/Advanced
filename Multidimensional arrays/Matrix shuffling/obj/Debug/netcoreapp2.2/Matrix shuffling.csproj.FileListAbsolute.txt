@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.pdb

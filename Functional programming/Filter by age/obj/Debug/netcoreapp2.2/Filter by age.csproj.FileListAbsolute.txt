@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\bin\Debug\netcoreapp2.2\Filter by age.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\bin\Debug\netcoreapp2.2\Filter by age.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\bin\Debug\netcoreapp2.2\Filter by age.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\bin\Debug\netcoreapp2.2\Filter by age.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\bin\Debug\netcoreapp2.2\Filter by age.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\obj\Debug\netcoreapp2.2\Filter by age.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\obj\Debug\netcoreapp2.2\Filter by age.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\obj\Debug\netcoreapp2.2\Filter by age.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\obj\Debug\netcoreapp2.2\Filter by age.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\obj\Debug\netcoreapp2.2\Filter by age.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Filter by age\obj\Debug\netcoreapp2.2\Filter by age.pdb

@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\bin\Debug\netcoreapp2.2\Action point.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\bin\Debug\netcoreapp2.2\Action point.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\bin\Debug\netcoreapp2.2\Action point.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\bin\Debug\netcoreapp2.2\Action point.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\bin\Debug\netcoreapp2.2\Action point.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\obj\Debug\netcoreapp2.2\Action point.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\obj\Debug\netcoreapp2.2\Action point.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\obj\Debug\netcoreapp2.2\Action point.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\obj\Debug\netcoreapp2.2\Action point.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Action point\obj\Debug\netcoreapp2.2\Action point.pdb

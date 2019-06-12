@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\bin\Debug\netcoreapp2.2\Predicate for names.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\bin\Debug\netcoreapp2.2\Predicate for names.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\bin\Debug\netcoreapp2.2\Predicate for names.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\bin\Debug\netcoreapp2.2\Predicate for names.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\bin\Debug\netcoreapp2.2\Predicate for names.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\obj\Debug\netcoreapp2.2\Predicate for names.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\obj\Debug\netcoreapp2.2\Predicate for names.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\obj\Debug\netcoreapp2.2\Predicate for names.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\obj\Debug\netcoreapp2.2\Predicate for names.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\obj\Debug\netcoreapp2.2\Predicate for names.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Predicate for names\obj\Debug\netcoreapp2.2\Predicate for names.csprojAssemblyReference.cache

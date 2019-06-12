@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\bin\Debug\netcoreapp2.2\Define a class person.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\bin\Debug\netcoreapp2.2\Define a class person.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\bin\Debug\netcoreapp2.2\Define a class person.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\bin\Debug\netcoreapp2.2\Define a class person.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\bin\Debug\netcoreapp2.2\Define a class person.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\obj\Debug\netcoreapp2.2\Define a class person.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\obj\Debug\netcoreapp2.2\Define a class person.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\obj\Debug\netcoreapp2.2\Define a class person.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\obj\Debug\netcoreapp2.2\Define a class person.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\obj\Debug\netcoreapp2.2\Define a class person.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Define a class person\obj\Debug\netcoreapp2.2\Define a class person.pdb

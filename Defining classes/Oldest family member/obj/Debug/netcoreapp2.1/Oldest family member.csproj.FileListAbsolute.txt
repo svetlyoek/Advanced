@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\bin\Debug\netcoreapp2.1\Oldest family member.deps.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\bin\Debug\netcoreapp2.1\Oldest family member.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\bin\Debug\netcoreapp2.1\Oldest family member.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\bin\Debug\netcoreapp2.1\Oldest family member.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\bin\Debug\netcoreapp2.1\Oldest family member.pdb
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\obj\Debug\netcoreapp2.1\Oldest family member.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\obj\Debug\netcoreapp2.1\Oldest family member.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\obj\Debug\netcoreapp2.1\Oldest family member.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\obj\Debug\netcoreapp2.1\Oldest family member.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\obj\Debug\netcoreapp2.1\Oldest family member.dll
+E:\Soft Uni\CODES\Advanced\Defining classes\Oldest family member\obj\Debug\netcoreapp2.1\Oldest family member.pdb

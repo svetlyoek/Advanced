@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\bin\Debug\netcoreapp2.2\Primary diagonal.deps.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\bin\Debug\netcoreapp2.2\Primary diagonal.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\bin\Debug\netcoreapp2.2\Primary diagonal.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\bin\Debug\netcoreapp2.2\Primary diagonal.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\bin\Debug\netcoreapp2.2\Primary diagonal.pdb
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\obj\Debug\netcoreapp2.2\Primary diagonal.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\obj\Debug\netcoreapp2.2\Primary diagonal.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\obj\Debug\netcoreapp2.2\Primary diagonal.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\obj\Debug\netcoreapp2.2\Primary diagonal.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\obj\Debug\netcoreapp2.2\Primary diagonal.dll
+E:\Soft Uni\CODES\Advanced\Multidimensional arrays\Primary diagonal\obj\Debug\netcoreapp2.2\Primary diagonal.pdb

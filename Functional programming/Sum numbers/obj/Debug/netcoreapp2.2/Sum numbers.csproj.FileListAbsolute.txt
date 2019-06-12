@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\bin\Debug\netcoreapp2.2\Sum numbers.deps.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\bin\Debug\netcoreapp2.2\Sum numbers.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\bin\Debug\netcoreapp2.2\Sum numbers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\bin\Debug\netcoreapp2.2\Sum numbers.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\bin\Debug\netcoreapp2.2\Sum numbers.pdb
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\obj\Debug\netcoreapp2.2\Sum numbers.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\obj\Debug\netcoreapp2.2\Sum numbers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\obj\Debug\netcoreapp2.2\Sum numbers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\obj\Debug\netcoreapp2.2\Sum numbers.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\obj\Debug\netcoreapp2.2\Sum numbers.dll
+E:\Soft Uni\CODES\Advanced\Functional programming\Sum numbers\obj\Debug\netcoreapp2.2\Sum numbers.pdb

@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\bin\Debug\netcoreapp2.2\Average student grades.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\bin\Debug\netcoreapp2.2\Average student grades.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\bin\Debug\netcoreapp2.2\Average student grades.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\bin\Debug\netcoreapp2.2\Average student grades.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\bin\Debug\netcoreapp2.2\Average student grades.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\obj\Debug\netcoreapp2.2\Average student grades.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\obj\Debug\netcoreapp2.2\Average student grades.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\obj\Debug\netcoreapp2.2\Average student grades.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\obj\Debug\netcoreapp2.2\Average student grades.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\obj\Debug\netcoreapp2.2\Average student grades.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Average student grades\obj\Debug\netcoreapp2.2\Average student grades.pdb

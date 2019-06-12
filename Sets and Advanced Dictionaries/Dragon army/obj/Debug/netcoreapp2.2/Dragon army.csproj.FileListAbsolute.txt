@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\bin\Debug\netcoreapp2.2\Dragon army.deps.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\bin\Debug\netcoreapp2.2\Dragon army.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\bin\Debug\netcoreapp2.2\Dragon army.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\bin\Debug\netcoreapp2.2\Dragon army.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\bin\Debug\netcoreapp2.2\Dragon army.pdb
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\obj\Debug\netcoreapp2.2\Dragon army.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\obj\Debug\netcoreapp2.2\Dragon army.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\obj\Debug\netcoreapp2.2\Dragon army.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\obj\Debug\netcoreapp2.2\Dragon army.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\obj\Debug\netcoreapp2.2\Dragon army.dll
+E:\Soft Uni\CODES\Advanced\Sets and Advanced Dictionaries\Dragon army\obj\Debug\netcoreapp2.2\Dragon army.pdb

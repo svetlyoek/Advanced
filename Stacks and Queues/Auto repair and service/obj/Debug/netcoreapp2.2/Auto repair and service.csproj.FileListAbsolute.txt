@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\bin\Debug\netcoreapp2.2\Auto repair and service.deps.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\bin\Debug\netcoreapp2.2\Auto repair and service.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\bin\Debug\netcoreapp2.2\Auto repair and service.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\bin\Debug\netcoreapp2.2\Auto repair and service.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\bin\Debug\netcoreapp2.2\Auto repair and service.pdb
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\obj\Debug\netcoreapp2.2\Auto repair and service.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\obj\Debug\netcoreapp2.2\Auto repair and service.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\obj\Debug\netcoreapp2.2\Auto repair and service.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\obj\Debug\netcoreapp2.2\Auto repair and service.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\obj\Debug\netcoreapp2.2\Auto repair and service.dll
+E:\Soft Uni\CODES\Advanced\Stacks and Queues\Auto repair and service\obj\Debug\netcoreapp2.2\Auto repair and service.pdb
