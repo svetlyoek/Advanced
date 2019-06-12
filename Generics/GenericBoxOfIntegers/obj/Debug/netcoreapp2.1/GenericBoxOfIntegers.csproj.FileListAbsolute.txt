@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\bin\Debug\netcoreapp2.1\GenericBoxOfIntegers.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\bin\Debug\netcoreapp2.1\GenericBoxOfIntegers.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\bin\Debug\netcoreapp2.1\GenericBoxOfIntegers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\bin\Debug\netcoreapp2.1\GenericBoxOfIntegers.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\bin\Debug\netcoreapp2.1\GenericBoxOfIntegers.pdb
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\obj\Debug\netcoreapp2.1\GenericBoxOfIntegers.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\obj\Debug\netcoreapp2.1\GenericBoxOfIntegers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\obj\Debug\netcoreapp2.1\GenericBoxOfIntegers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\obj\Debug\netcoreapp2.1\GenericBoxOfIntegers.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\obj\Debug\netcoreapp2.1\GenericBoxOfIntegers.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericBoxOfIntegers\obj\Debug\netcoreapp2.1\GenericBoxOfIntegers.pdb
