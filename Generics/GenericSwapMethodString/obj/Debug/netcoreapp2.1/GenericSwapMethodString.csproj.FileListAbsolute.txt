@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.pdb
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.pdb
+E:\Soft Uni\CODES\Advanced\Generics\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.csprojAssemblyReference.cache
