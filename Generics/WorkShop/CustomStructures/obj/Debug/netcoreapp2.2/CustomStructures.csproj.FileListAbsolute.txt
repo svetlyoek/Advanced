@@ -1,0 +1,12 @@
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.deps.json
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.dll
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.pdb
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.xml
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.dll
+E:\Soft Uni\CODES\Advanced\Workshop\CustomStructures\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.pdb
