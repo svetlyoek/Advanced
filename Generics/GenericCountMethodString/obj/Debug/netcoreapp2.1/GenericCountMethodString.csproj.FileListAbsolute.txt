@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\bin\Debug\netcoreapp2.1\GenericCountMethodString.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\bin\Debug\netcoreapp2.1\GenericCountMethodString.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\bin\Debug\netcoreapp2.1\GenericCountMethodString.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\bin\Debug\netcoreapp2.1\GenericCountMethodString.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\bin\Debug\netcoreapp2.1\GenericCountMethodString.pdb
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\obj\Debug\netcoreapp2.1\GenericCountMethodString.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\obj\Debug\netcoreapp2.1\GenericCountMethodString.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\obj\Debug\netcoreapp2.1\GenericCountMethodString.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\obj\Debug\netcoreapp2.1\GenericCountMethodString.dll
+E:\Soft Uni\CODES\Advanced\Generics\GenericCountMethodString\obj\Debug\netcoreapp2.1\GenericCountMethodString.pdb
