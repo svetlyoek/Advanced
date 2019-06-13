@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\obj\Debug\netcoreapp2.1\ThreeUple.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\obj\Debug\netcoreapp2.1\ThreeUple.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\obj\Debug\netcoreapp2.1\ThreeUple.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\bin\Debug\netcoreapp2.1\ThreeUple.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\bin\Debug\netcoreapp2.1\ThreeUple.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\bin\Debug\netcoreapp2.1\ThreeUple.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\bin\Debug\netcoreapp2.1\ThreeUple.dll
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\bin\Debug\netcoreapp2.1\ThreeUple.pdb
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\obj\Debug\netcoreapp2.1\ThreeUple.dll
+E:\Soft Uni\CODES\Advanced\Generics\ThreeTuple\obj\Debug\netcoreapp2.1\ThreeUple.pdb
