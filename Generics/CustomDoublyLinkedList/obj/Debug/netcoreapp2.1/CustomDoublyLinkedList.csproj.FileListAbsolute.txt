@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\bin\Debug\netcoreapp2.1\CustomDoublyLinkedList.deps.json
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\bin\Debug\netcoreapp2.1\CustomDoublyLinkedList.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\bin\Debug\netcoreapp2.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\bin\Debug\netcoreapp2.1\CustomDoublyLinkedList.dll
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\bin\Debug\netcoreapp2.1\CustomDoublyLinkedList.pdb
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\obj\Debug\netcoreapp2.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\obj\Debug\netcoreapp2.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\obj\Debug\netcoreapp2.1\CustomDoublyLinkedList.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\obj\Debug\netcoreapp2.1\CustomDoublyLinkedList.dll
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\obj\Debug\netcoreapp2.1\CustomDoublyLinkedList.pdb
+E:\Soft Uni\CODES\Advanced\Generics\CustomDoublyLinkedList\obj\Debug\netcoreapp2.1\CustomDoublyLinkedList.csprojAssemblyReference.cache
