@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\bin\Debug\netcoreapp2.2\RecursiveArraySum.deps.json
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\bin\Debug\netcoreapp2.2\RecursiveArraySum.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\bin\Debug\netcoreapp2.2\RecursiveArraySum.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\bin\Debug\netcoreapp2.2\RecursiveArraySum.dll
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\bin\Debug\netcoreapp2.2\RecursiveArraySum.pdb
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\obj\Debug\netcoreapp2.2\RecursiveArraySum.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\obj\Debug\netcoreapp2.2\RecursiveArraySum.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\obj\Debug\netcoreapp2.2\RecursiveArraySum.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\obj\Debug\netcoreapp2.2\RecursiveArraySum.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\obj\Debug\netcoreapp2.2\RecursiveArraySum.dll
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveArraySum\obj\Debug\netcoreapp2.2\RecursiveArraySum.pdb

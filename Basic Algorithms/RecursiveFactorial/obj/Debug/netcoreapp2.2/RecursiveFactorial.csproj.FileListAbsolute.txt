@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\bin\Debug\netcoreapp2.2\RecursiveFactorial.deps.json
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\bin\Debug\netcoreapp2.2\RecursiveFactorial.runtimeconfig.json
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\bin\Debug\netcoreapp2.2\RecursiveFactorial.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\bin\Debug\netcoreapp2.2\RecursiveFactorial.dll
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\bin\Debug\netcoreapp2.2\RecursiveFactorial.pdb
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\obj\Debug\netcoreapp2.2\RecursiveFactorial.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\obj\Debug\netcoreapp2.2\RecursiveFactorial.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\obj\Debug\netcoreapp2.2\RecursiveFactorial.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\obj\Debug\netcoreapp2.2\RecursiveFactorial.AssemblyInfo.cs
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\obj\Debug\netcoreapp2.2\RecursiveFactorial.dll
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\RecursiveFactorial\obj\Debug\netcoreapp2.2\RecursiveFactorial.pdb
