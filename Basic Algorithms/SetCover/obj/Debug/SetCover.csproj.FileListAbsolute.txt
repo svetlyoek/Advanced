@@ -1,0 +1,7 @@
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\bin\Debug\SetCover.exe.config
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\bin\Debug\SetCover.exe
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\bin\Debug\SetCover.pdb
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\obj\Debug\SetCover.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\obj\Debug\SetCover.exe
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SetCover\obj\Debug\SetCover.pdb
