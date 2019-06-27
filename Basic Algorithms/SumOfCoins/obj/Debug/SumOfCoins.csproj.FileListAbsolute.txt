@@ -1,0 +1,7 @@
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\bin\Debug\SumOfCoins.exe
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\bin\Debug\SumOfCoins.pdb
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\obj\Debug\SumOfCoins.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\obj\Debug\SumOfCoins.exe
+E:\Soft Uni\CODES\Advanced\Basic Algorithms\SumOfCoins\obj\Debug\SumOfCoins.pdb
